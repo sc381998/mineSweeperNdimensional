@@ -1,0 +1,2 @@
+# mineSweeperNdimensional
+Created with CodeSandbox
