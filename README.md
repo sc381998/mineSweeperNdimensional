@@ -1,2 +1,2 @@
 # mineSweeperNdimensional
-Created with CodeSandbox
+Designed and implemented the beautiful n dimensional minesweeper game
